@@ -1,0 +1,13 @@
+      .container {
+        width: 500px;
+        height: fit-content;
+        padding: 2em;
+        background-color: aliceblue;
+        border-radius: 25px;
+        border: solid 2px purple;
+        margin: 20px;
+      }
+
+      span {
+        color: navy;
+      }
