@@ -63,3 +63,9 @@ h1 {
     display: flex;
     justify-content: space-evenly;
 }
+
+.desafio {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
